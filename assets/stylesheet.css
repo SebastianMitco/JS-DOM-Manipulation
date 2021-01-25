@@ -1,0 +1,45 @@
+.thnx-msg{
+    background-color: rgb(156, 241, 156) ;
+    height:2rem;
+    border-radius:0.2em;
+    
+    max-width:48rem;
+    margin-bottom: 1rem;
+    color:rgb(0, 148, 0);
+}
+.container{
+    border:0.03rem solid black;
+    display:flex;
+    max-width:47rem;
+    padding: 0.5rem 0.5rem;
+}
+input[type=text]{
+    width:20rem;
+    margin:0rem 0rem 1rem;
+}
+textarea{
+    width: 20rem;
+    height:8rem;
+  
+}
+.input-field{
+    margin: 0rem 2.5rem 3rem 4.5rem;
+    position:relative;
+}
+.submit-btn{
+    position: absolute;
+    bottom:-2.5rem;
+    right:0rem;
+    height:2rem;
+    width:4.5rem;
+    color:white;
+    background:cornflowerblue;
+    border:none;
+    border-radius:0.3em;
+}
+input[type=radio]{
+    margin-left:4rem;
+}
+.img-1{
+    max-height: 22rem;
+}
